@@ -180,7 +180,7 @@ npm run surve
 
 今のところ，以上
 
-[1]: [Docs \| Node\.js](https://nodejs.org/en/docs/)
-[2]: [Node\.js](https://nodejs.org/en/)
-[3]: [Realm Node\.jsとExpressでブログを作成](https://academy.realm.io/jp/posts/realm-node-js-express-blog-tutorial/)
+[1]: [Docs \| Node\.js](https://nodejs.org/en/docs/)  
+[2]: [Node\.js](https://nodejs.org/en/)  
+[3]: [Realm Node\.jsとExpressでブログを作成](https://academy.realm.io/jp/posts/realm-node-js-express-blog-tutorial/)  
 [4]: [Realm Studio: open, edit, and manage your Realm data](https://realm.io/jp/products/realm-studio/)
