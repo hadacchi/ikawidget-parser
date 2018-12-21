@@ -1,0 +1,36 @@
+{
+  "name": "ikawidget-parser",
+  "version": "1.0.0",
+  "description": "extract realm db of ikawidget",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hadacchi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadacchi/ikawidget-parser.git"
+  },
+  "keywords": [
+    "realm",
+    "javascript",
+    "ikawidget"
+  ],
+  "bugs": {
+    "url": "https://github.com/hadacchi/ikawidget-parser/issues"
+  },
+  "homepage": "https://github.com/hadacchi/ikawidget-parser#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "commander": "^2.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "realm": "^2.21.1",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
